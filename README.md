@@ -3,4 +3,6 @@ This is a simple starter project for students who are learning to use Webpack to
 
 #### Use this git command to create a new project
 
-`git clone https://github.com/CriticalPathTraining/webpack-typescript-starter.git c:\DevProjects\project1`
+`
+git clone https://github.com/CriticalPathTraining/webpack-typescript-starter.git c:\DevProjects\project1
+`
