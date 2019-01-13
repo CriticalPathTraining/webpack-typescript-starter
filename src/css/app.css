@@ -1,0 +1,14 @@
+﻿#app-image {
+  float: left;
+  width: 64px;
+  height: 64px;
+  background-image: url(./img/AppIcon.png);
+  background-repeat: no-repeat;
+}
+
+#content-box {
+  margin: 0;
+  padding: 4px;
+  font-size: 32px;
+  color:darkred;
+}
