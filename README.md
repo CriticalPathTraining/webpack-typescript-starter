@@ -5,4 +5,5 @@ This is a simple starter project for students who are learning to use Webpack to
 
 `
 git clone https://github.com/CriticalPathTraining/webpack-typescript-starter.git c:\DevProjects\project1
+cd c:\DevProjects\project1
 `
